@@ -127,8 +127,6 @@ token.json
 ---
 
 
----
-
 ## 📌 專案簡介
 
 為確保安全性，credentials.json 並未包含於 repository 中。
