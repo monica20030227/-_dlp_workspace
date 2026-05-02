@@ -1,10 +1,14 @@
 # 🛡️ Google Workspace 資料外洩防護（DLP）監控系統
 
-## 📌 專案簡介
+---
 
 #⚠️ 注意：
 本專案使用 Google OAuth 進行驗證，
 請自行建立 credentials.json 並放入專案目錄。
+
+---
+
+## 📌 專案簡介
 
 為確保安全性，credentials.json 並未包含於 repository 中。
 
