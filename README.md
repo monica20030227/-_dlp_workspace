@@ -2,7 +2,7 @@
 
 ---
 
-#⚠️ 注意：
+⚠️ 注意：
 本專案使用 Google OAuth 進行驗證，
 請自行建立 credentials.json 並放入專案目錄。
 
